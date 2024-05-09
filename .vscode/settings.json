@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./domain/usecases",
+        "./presentation/pages"
+    ],
+    "cSpell.words": [
+        "flet"
+    ]
+}
